@@ -8,6 +8,7 @@ from io import BytesIO
 import plotly.graph_objects as go
 import pandas as pd
 
+st.title("무슨 주식을 사야 부자가 되려나...")
 
 # 입력화면
 with st.sidebar:
